@@ -8,7 +8,7 @@ Bienvenido a mi primera página estática con Markdown
 
 | Proyecto | Tecnología | Estado |
 |----------|------------|--------|
-| Portfolio | HTML/CSS | ✅ Listo |
+| Portfolio | HTML/CSS/Javascript | ✅ Listo |
 | Blog | Markdown | ✅ Activo |
 | Tienda | React | ⏳ Pendiente |
 
