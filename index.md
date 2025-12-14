@@ -10,7 +10,7 @@
 | Blog | Markdown | ✅ Activo |
 | Tienda | React | ⏳ Pendiente |
 
-![Mi foto de perfil](https://via.placeholder.com/300x300/4ecdc4/ffffff?text=Yo)
+![Mi foto de perfil](img/perfil-avatar-mujer-icono-redondo_24640-14047.avif" alt="Mi foto de perfil)
 
 **¡Visita mi Portfolio HTML!**  
 [Ir al Portfolio →](https://anayazgalvan.github.io/Mi-pagina-HTML/)
