@@ -1,6 +1,6 @@
 # Mi Página Web en Markdown
 
-¡Bienvenido a mi primera página estática con Markdown!
+Bienvenido a mi primera página estática con Markdown
 
 ![Mi foto de perfil](mesa-ordenador.jpg)
 
